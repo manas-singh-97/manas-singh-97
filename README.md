@@ -12,4 +12,4 @@ Tech Stack
   Python (pandas, numpy), PostgreSQL, Excel & Google Sheets, Jupyter
 
 Github stats
-  https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide=contribs,prs
+  https://github-readme-stats.vercel.app/api?username=manas-singh-97&show_icons=true&theme=radical&hide=contribs,prs
