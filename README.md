@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 Hi, I'm Manas 
 
-<!--
-**manas-singh-97/manas-singh-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
+  I’m a technically curious builder and problem solver with a love for clean data, clever automation, and impactful tools.  
+  Currently exploring how to handle real world data, and developing a pipeline with automation.
 
-Here are some ideas to get you started:
+Reach Me @ 
+  Email _______________ manassingh.2009@gmail.com
+  LinkedIn ____________ www.linkedin.com/in/manas-singh-iitd2020
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech Stack
+  Python (pandas, numpy), PostgreSQL, Excel & Google Sheets, Jupyter
+
+Github stats
+  https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide=contribs,prs
