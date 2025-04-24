@@ -1,6 +1,6 @@
-👋 Hi, I'm Manas 
+👋 Hi, I'm Manas  
 
-About Me
+About Me  
   I’m a technically curious builder and problem solver with a love for clean data, clever automation, and impactful tools.  
   Currently exploring how to handle real world data, and developing a pipeline with automation.  
 
